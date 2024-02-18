@@ -9,8 +9,26 @@ import FourHome from './components/FourScreen';
 import RegisterHome from './components/RegisterScreen';
 import SignIn from './components/SignInScreen';
 import SignInScreen from './components/SignInScreen';
+import { initializeApp } from '@firebase/app'
+import MainHome from './components/MainHome';
+import BuyScreen from './components/BuyScreen';
+import ShoppingScreen from './components/ShoppingScreen';
+import MigrosBuyScreen from './components/MigrosBuyScreen';
+import GetFromBasket from './components/GetFromBasket';
+import SutasMilkProduct from './components/SutasMilkProduct';
+
+// const firebaseConfig = {
+//   apiKey: "AIzaSyBVRWq7qX09PZZLwaf1nEp8JYpC_B7Eq1A",
+//   authDomain: "market-auth-2bc5e.firebaseapp.com",
+//   projectId: "market-auth-2bc5e",
+//   storageBucket: "market-auth-2bc5e.appspot.com",
+//   messagingSenderId: "1040338893579",
+//   appId: "1:1040338893579:web:0dc50a49ab4de58c6c400e",
+//   measurementId: "G-CQ7V56MJXB"
+// };
 
 
+// const app = initializeApp(firebaseConfig);
 
 const Stack = createNativeStackNavigator();
 
@@ -24,6 +42,12 @@ function App() {
         <Stack.Screen name="FourHome" component={FourHome} />
         <Stack.Screen name="RegisterHome" component={RegisterHome} />
         <Stack.Screen name="SignInScreen" component={SignInScreen} />
+        <Stack.Screen name="MainHome" component={MainHome} />
+        <Stack.Screen name="BuyScreen" component={BuyScreen} />
+        <Stack.Screen name="ShoppingScreen" component={ShoppingScreen} />
+        <Stack.Screen name="MigrosBuyScreen" component={MigrosBuyScreen} />
+        <Stack.Screen name="GetFromBasket" component={GetFromBasket} />
+        <Stack.Screen name="SutasMilkProduct" component={SutasMilkProduct} />
 
       </Stack.Navigator>
     </NavigationContainer >

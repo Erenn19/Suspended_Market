@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1040338893579",
+    "project_id": "market-auth-2bc5e",
+    "storage_bucket": "market-auth-2bc5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040338893579:android:1eb4fccf2c00be096c400e",
+        "android_client_info": {
+          "package_name": "com.birkerenn.askidaMarket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS4rSpAp6uwcW13JQ_R8wcCuhILy1tV8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

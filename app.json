@@ -4,7 +4,7 @@
     "slug": "my-app",
     "version": "1.0.0",
     "splash": {
-      "image": "./images/Logo.png",
+      "image": "./images/Logo2.png",
       "resizeMode": "contain",
       "backgroundColor": "#101621"
     },
