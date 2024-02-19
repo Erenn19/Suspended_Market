@@ -1,6 +1,5 @@
-import { Alert, Image, ScrollView, StyleSheet, Text, TextInput, TouchableOpacity, View } from 'react-native'
+import { Alert, Image, ScrollView, StyleSheet, Text, TouchableOpacity, View } from 'react-native'
 import React from 'react'
-import { Octicons } from '@expo/vector-icons';
 import { AntDesign } from '@expo/vector-icons';
 
 const MigrosBuyScreen = ({ navigation }) => {
