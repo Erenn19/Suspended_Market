@@ -22,7 +22,7 @@ const ShoppingScreen = ({ navigation }) => {
     }
   };
   const showAlert = () => {
-    Alert.alert('Tebrikler', 'ÜRÜN ALDINI');
+    Alert.alert('Successful', 'Product Received');
   };
 
   return (
