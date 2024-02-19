@@ -22,7 +22,7 @@ const ShoppingScreen = ({ navigation }) => {
     }
   };
   const showAlert = () => {
-    Alert.alert('Error', 'ÜRÜN ALDINI');
+    Alert.alert('Tebrikler', 'ÜRÜN ALDINI');
   };
 
   return (
@@ -70,7 +70,7 @@ const ShoppingScreen = ({ navigation }) => {
         <TouchableOpacity style={{ margin: 30 }}>
           <AntDesign name="home" size={35} color="#ff4d6d" />
         </TouchableOpacity>
-        <TouchableOpacity style={{ margin: 30 }}>
+        <TouchableOpacity onPress={() => navigation.navigate('Profil')} style={{ margin: 30 }}>
           <AntDesign name="user" size={35} color="black" />
         </TouchableOpacity>
       </View>

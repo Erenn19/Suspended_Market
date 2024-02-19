@@ -43,7 +43,7 @@ const BuyScreen = ({ navigation }) => {
                 {/* <TouchableOpacity onPress={() => navigation.navigate('ShoppingScreen')} style={{ margin: 30 }}>
                     <AntDesign name="shoppingcart" size={35} color="black" />
                 </TouchableOpacity> */}
-                <TouchableOpacity style={{ margin: 30 }}>
+                <TouchableOpacity onPress={() => navigation.navigate('Profil')} style={{ margin: 30 }}>
                     <AntDesign name="user" size={35} color="black" />
                 </TouchableOpacity>
             </View>

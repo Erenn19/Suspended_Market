@@ -16,6 +16,7 @@ import ShoppingScreen from './components/ShoppingScreen';
 import MigrosBuyScreen from './components/MigrosBuyScreen';
 import GetFromBasket from './components/GetFromBasket';
 import SutasMilkProduct from './components/SutasMilkProduct';
+import Profil from './components/Profil';
 
 // const firebaseConfig = {
 //   apiKey: "AIzaSyBVRWq7qX09PZZLwaf1nEp8JYpC_B7Eq1A",
@@ -48,6 +49,7 @@ function App() {
         <Stack.Screen name="MigrosBuyScreen" component={MigrosBuyScreen} />
         <Stack.Screen name="GetFromBasket" component={GetFromBasket} />
         <Stack.Screen name="SutasMilkProduct" component={SutasMilkProduct} />
+        <Stack.Screen name="Profil" component={Profil} />
 
       </Stack.Navigator>
     </NavigationContainer >
