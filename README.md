@@ -28,9 +28,12 @@ Poverty, affecting 46 percent of the global population, remains one of the most 
 *JAVASCRIPT<br />
 *FIREBASE (GOOGLE TECHNOLOGY)
 
+# SUSPENDED MARKET (PIFM)
 
+![figma](https://github.com/Erenn19/Suspended_Market/assets/79603569/5d23370b-3583-4f37-b710-77625d399ca5)
 
 
 
 # User Flow
+
 ![ProjectIMG](https://github.com/Erenn19/Suspended_Market/assets/79603569/fc4dc729-41c1-4168-8045-c69c5052b92c)
