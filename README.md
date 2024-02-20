@@ -7,11 +7,10 @@ EREN BİRK / Developer <br />
 FATİH KABUL/ UI-UX Designer
 
 
-# Video Demonstration Of The Project
+# Link to the Video Demonstration of the Project
 
-![image](https://github.com/Erenn19/Suspended_Market/assets/79603569/bd0498ab-8df1-4e54-b06a-c3649b93d4c6)
-<>
-([Link URL](https://youtu.be/gdbE_QdANes))
+
+https://youtu.be/gdbE_QdANes?si=ufhgtwlcf4aC3m7I
 
 
 # Product Description
